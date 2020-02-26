@@ -26,3 +26,29 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.r333d.cylinder
+Name: Cylinder
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Compatible with iOS 4 to 13 (and A12 devices)
+Compatible with CarPlay
+
+Sexy homescreen icon animations
+
+Currently there are 45 icon effects.
+
+If you take combinations into account, then there are 35,184,372,088,832 effects.
+
+If, for some reason, these 35,184,372,088,832 animations do not satisfy your needs, then you can code your own animations using Lua! Effect scripts are stored in /Library/Cylinder.
+
+You can also make script requests on reddit.com/r/cylinder if you don't know how to computer. People also sometimes post cool combinations there too.
+
+Configure options from Settings.
+Maintainer: Reed Weichler
+Author: Reed Weichler
+Section: Tweaks
+Filename: ./debs/com.r333d.cylinder.deb
+Depiction: https://modyouridevice.github.io/repo-myi
+Size: 293
+MD5sum: c24e9c9b3f4096a8b93080207fac5580
